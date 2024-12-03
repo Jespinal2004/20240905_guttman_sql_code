@@ -1,9 +1,0 @@
- /* SQL installation script:
-    Name:                        Data Created:
-
-    Purpose:                     Data Modified:
-    */
-    -- Opening print Statment 
-   SELECT '' AS 'Installation Starting!!!';
-      Remove the database if it is already there
-   DROP DATABASE IF EXISTS testdb_20240917;
